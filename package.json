@@ -1,0 +1,23 @@
+{
+  "name": "usson",
+  "version": "0.0.1",
+  "description": "Streaming (SAX-style) JSON processor",
+  "main": "usson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UncleSniper/usson-node.git"
+  },
+  "keywords": [
+    "json",
+    "streaming"
+  ],
+  "author": "Simon \"UncleSniper\" Bausch <tainteddevil@googlemail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UncleSniper/usson-node/issues"
+  },
+  "homepage": "https://github.com/UncleSniper/usson-node#readme"
+}
